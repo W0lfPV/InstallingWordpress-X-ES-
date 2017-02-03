@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Se va a proceder a descargar la última versión de Wordpress"
 wget https://wordpress.org/latest.zip
 echo "Moviendo el archivo descargado a /var/www/html"
