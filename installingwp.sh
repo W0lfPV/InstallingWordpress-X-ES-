@@ -10,6 +10,7 @@ mv wordpress $carpeta
 echo $carpeta creado
 chown www-data:www-data $carpeta -R
 echo $carpeta configurado
+rm latest.zip
 zenity --info --title "Todo correcto." --text "Creado directorio de Wordpress /var/www/html/$carpeta , configurado según sus especificaciones."
 exit
 
