@@ -1,7 +1,7 @@
 <h3><strong> # Installing Wordpress.</strong></h3>
 Create the WordPress directory on our server, and configure it according to your preferences.<br>
 /-Requires<br>
-|-Directory server -> <strong>/var/www/html</strong><br><
+|-Directory server -> <strong>/var/www/html</strong><br>
 |-Existence of the user <strong>www-data</strong><br>
 |-Existence of the group <strong>www-data</strong><br>
 <br>
