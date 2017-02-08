@@ -17,7 +17,8 @@ Crea el directorio de WordPress en nuestro servidor, además lo configura según
 |-Directorio servidor -> <strong>/var/www/html<br></strong>
 |-Existencia del usuario <strong>www-data</strong><br>
 |-Existencia del grupo <strong>www-data</strong><br>
-<i>Probado en 
+<i>Probado en Xubuntu 14.04 y Kali Linux 2.0</i><br>
+<h3><strong>Importante usar administración del sistema para ejecutar el script</h3></strong><br>
 <br>
 <i>Se prepara añadir la creación de la base de datos que usará WordPress en el propio Script.</i><br>
 <br>
