@@ -28,5 +28,5 @@ echo "Usuario mysql creado"
 echo "Establecida contraseña al nuevo usuario"
 echo "Hemos terminado :-)"
 rm sql.txt
-zenity --info --title "Todo correcto." --text "Ya puede ir al navegador y entrar a localhost/$carpeta para ir a WordPress, no olvide los datos sobre la base de datos para añadirlos una vez dentro del proceso de configuración vía web de WordPress, la base de datos se llama $basededatos y el usuario $usuariobase"
+zenity --info --title "Todo correcto." --text "Ya puede ir al navegador y entrar a localhost/$carpeta para ir a WordPress, no olvide los datos sobre la base de datos para añadirlos una vez dentro del proceso de configuración vía web de WordPress, la base de datos se llama $basededatos y el usuario $usuariobase."
 exit
