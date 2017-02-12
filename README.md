@@ -20,6 +20,7 @@ Crea el directorio de WordPress en nuestro servidor, además lo configura según
 <i>Probado en Xubuntu 14.04 y Kali Linux 2.0</i><br>
 <h3><strong>Importante usar administración del sistema para ejecutar el script</h3></strong><br>
 <br>
+<p>Esta versión es para equipos con interfaz gráfica</p><br>
 <i>Actualizado-> Se crea una base de datos y un usuario para la base de datos.</i><br>
 <br>
 <i>Creado por Adrián Diaz.</i><br>
